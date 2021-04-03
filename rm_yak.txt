@@ -1,0 +1,7 @@
+В папке "template" я намерен собрать свои шаблоны для разных целей.
+
+Адаптивная вёрстка сайтов за 37 минут + макет. Тебе не нужен Bootstrap!
+https://www.youtube.com/watch?v=XbnAKjjlgc4
+
+VS Code настройка установка плагины // Подробный гайд VS Code за час // VS Code видео обучение
+https://www.youtube.com/watch?v=nxCLXMBl4e4&t=3483s
